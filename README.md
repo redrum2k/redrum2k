@@ -11,10 +11,14 @@
 
 <br>
 
-💻 Software Engineering Intern at Govdash
-🤖 Interested in interpretable AI and agentic systems
-📈 Applying ML to markets and economic data
-🚀 Currently building LeetCode Buddy and other devtools
+💻 Software Engineering Intern at Govdash<br>
+
+🤖 Interested in interpretable AI and agentic systems<br>
+
+📈 Applying ML to markets and economic data<br>
+
+🚀 Currently building LeetCode Buddy and other devtools<br>
+
 
 <br>
 
