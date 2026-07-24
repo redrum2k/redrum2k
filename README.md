@@ -20,8 +20,6 @@
 
 <strong>What I've Built With</strong>
 
-<br><br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=700&color=F71581&center=true&vCenter=true&width=600&lines=TypeScript;Python;Java;MATLAB;FastAPI;Docker;TensorFlow;scikit-learn)](https://git.io/typing-svg)
 
 <br>
