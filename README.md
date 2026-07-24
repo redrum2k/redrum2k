@@ -7,22 +7,16 @@
   Building AI systems, devtools, and quantitative software
 </p>
 
-</div>
-
 <br>
+
 <p>
-💻 Software Engineering Intern at Govdash<br>
-
-🤖 Interested in interpretable AI and agentic systems<br>
-
-📈 Applying ML to markets and economic data<br>
-
-🚀 Currently building LeetCode Buddy and other devtools<br>
-
+  💻 Software Engineering Intern at Govdash<br>
+  🤖 Interested in interpretable AI and agentic systems<br>
+  📈 Applying ML to markets and economic data<br>
+  🚀 Currently building LeetCode Buddy and other devtools
 </p>
-<br>
 
-<div align="center">
+<br>
 
 <strong>What I've Built With</strong>
 
@@ -34,11 +28,7 @@
 
 <img src="https://skillicons.dev/icons?i=ts,python,java,tensorflow,fastapi,docker,git,github&perline=8" alt="Technology icons" />
 
-</div>
-
 <br><br>
-
-<div align="center">
 
 <picture>
   <source
