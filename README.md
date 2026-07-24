@@ -1,16 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF71D&width=600&lines=Hey+there!;My+name+is+Nikita!;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
-- I study CS and Economics at Boston University
-- I build AI-powered software and developer tools
-- I'm interested in interpretable AI and quantitative systems
-- I'm currently a Software Engineering Intern at Govdash
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=20F721&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Nikita!;I+build+AI-powered+software.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-Check out some of my projects! 🚀
+<p>
+  Computer Science + Economics @ Boston University<br>
+  Building AI systems, devtools, and quantitative software
+</p>
 
-## I've Built With
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F71581&width=500&lines=TypeScript;Python;Java;MATLAB;React;FastAPI;PostgreSQL;Docker;TensorFlow;scikit-learn)](https://git.io/typing-svg)
+<br>
 
-## My GitHub Activity
+- 💻 Software Engineering Intern at Govdash
+- 🤖 Interested in interpretable AI and agentic systems
+- 📈 Applying ML to markets and economic data
+- 🚀 Currently building LeetCode Buddy and other devtools
+
+<br>
+
+<p align="center">
+  <strong>What I've Built With</strong>
+</p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=700&color=F71581&center=true&vCenter=true&width=600&lines=TypeScript;Python;Java;MATLAB;React;FastAPI;PostgreSQL;Docker;TensorFlow;scikit-learn)](https://git.io/typing-svg)
+
+<img src="https://skillicons.dev/icons?i=ts,python,react,fastapi,postgres,docker,git,github&perline=8" alt="Technology icons" />
+
+</div>
+
+<br>
+
+
+<div align="center">
 
 <picture>
   <source
@@ -26,3 +47,5 @@ Check out some of my projects! 🚀
     src="https://raw.githubusercontent.com/redrum2k/redrum2k/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
