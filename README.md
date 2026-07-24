@@ -10,7 +10,7 @@
 </div>
 
 <br>
-
+<p>
 💻 Software Engineering Intern at Govdash<br>
 
 🤖 Interested in interpretable AI and agentic systems<br>
@@ -19,7 +19,7 @@
 
 🚀 Currently building LeetCode Buddy and other devtools<br>
 
-
+</p>
 <br>
 
 <div align="center">
