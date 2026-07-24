@@ -18,11 +18,9 @@
 
 <br>
 
-<strong>What I've Built With</strong>
+<strong>**What I've Built With**</strong>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=700&color=F71581&center=true&vCenter=true&width=600&lines=TypeScript;Python;Java;MATLAB;FastAPI;Docker;TensorFlow;scikit-learn)](https://git.io/typing-svg)
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=ts,python,java,tensorflow,fastapi,docker,git,github&perline=8" alt="Technology icons" />
 
